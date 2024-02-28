@@ -7,4 +7,4 @@ Hands-on material
 
 [HW2](CSD458_HW2.ipynb)
 
-[HW3](CSD458_HW3.ipynb)
+[HW3](CSD485_HW3.ipynb)
