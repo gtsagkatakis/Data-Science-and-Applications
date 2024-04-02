@@ -12,3 +12,5 @@ Hands-on material
 [HW4](CSD458_HW4.ipynb)
 
 [HW5](CSD458_HW5.ipynb)
+
+[HW6](CSD458_HW6.ipynb)
