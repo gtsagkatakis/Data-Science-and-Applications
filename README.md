@@ -3,14 +3,14 @@
 
 Hands-on material  
 
-[HW1](CSD458_HW1.ipynb)
+[HW1](CSD485_HW1.ipynb)
 
-[HW2](CSD458_HW2.ipynb)
+[HW2](CSD485_HW2.ipynb)
 
-[HW3](CSD458_HW3.ipynb)
+[HW3](CSD485_HW3.ipynb)
 
-[HW4](CSD458_HW4.ipynb)
+[HW4](CSD485_HW4.ipynb)
 
-[HW5](CSD458_HW5.ipynb)
+[HW5](CSD485_HW5.ipynb)
 
-[HW6](CSD458_HW6.ipynb)
+[HW6](CSD485_HW6.ipynb)
