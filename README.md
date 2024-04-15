@@ -14,3 +14,5 @@ Hands-on material
 [HW5](CSD485_HW5.ipynb)
 
 [HW6](CSD485_HW6.ipynb)
+
+[HW7](CSD485_HW7.ipynb)
